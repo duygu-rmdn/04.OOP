@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KHVIu881fxRUuYdKH/l9ciCBJe9O2KRje+Jv3V5RB8dnBnD5gka/+fsj2QMA6zQWSuX6kMLOTH5YAmveG4q6Tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\OOP\\02.Inheritance - Exercise\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

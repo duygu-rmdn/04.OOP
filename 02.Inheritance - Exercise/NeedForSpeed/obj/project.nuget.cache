@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y++UkhYKC3kXvIAJf7ZPj8M8M03J2Dq01T2aXtdvdOEcRNW6Inwlg6JKr9yqdKh1epXpCSjKd9Fdvadx/kP9/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\OOP\\02.Inheritance - Exercise\\NeedForSpeed\\NeedForSpeed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

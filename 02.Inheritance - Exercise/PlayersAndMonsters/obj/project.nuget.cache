@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bwJNY/+C6Ri0uQWelQWc9+ZiMST+J7QQZaXMrHyzn4td830o1P1jTvVbmaUF377/+d7FQNYI07V3xfxXuu4gWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\OOP\\02.Inheritance - Exercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

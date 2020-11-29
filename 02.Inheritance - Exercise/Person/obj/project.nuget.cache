@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7r6hs+X3CKyqr6M3KUkSga5P8Geej0801DOp9CwSZ9ZkwCftza1GaX5vwXoLlXhYic4jM66zB3CFAKOUq4yIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\OOP\\02.Inheritance - Exercise\\Person\\Person.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
