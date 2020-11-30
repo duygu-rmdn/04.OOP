@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zwK8TP0tVDEap5QjNTGzOsX2vr8cgYbo8NoeZdI9uSOJ2Cu8bqeGOXv4X6QmzjWiw0OSJN+d41Gw9bkPTMwSFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\OOP\\03.Encapsulation - Lab\\PersonsInfo\\PersonsInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
