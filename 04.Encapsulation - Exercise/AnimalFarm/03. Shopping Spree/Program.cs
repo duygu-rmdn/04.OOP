@@ -1,12 +1,14 @@
-﻿using System;
+﻿using _03._Shopping_Spree.Core;
+using System;
 
 namespace _03._Shopping_Spree
 {
-    class Program
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Engine engin = new Engine();
+            engin.Run();
         }
     }
 }
