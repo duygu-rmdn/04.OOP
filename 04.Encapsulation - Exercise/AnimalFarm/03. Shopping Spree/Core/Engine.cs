@@ -45,6 +45,7 @@ namespace _03._Shopping_Spree.Core
             catch (ArgumentException ae)
             {
                 Console.WriteLine(ae.Message);
+                throw;
             }
             
         }
