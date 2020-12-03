@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wiy/geL8tK5jv5cim0g5Z8UmrUksR37s0kRHIgxNxPDrM5bylAwyASdztnU6ZLel9dqmrJqO4WuIq6ZpOgENRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\OOP\\06.Interfaces and Abstraction - Exercise\\03. Telephony\\03. Telephony.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
