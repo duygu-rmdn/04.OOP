@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vcjBQaklX+fR3WhrprgA5xmX7Dyy3IsDAcKQFWmtUs53GouPHyhTaXpA665cctzyAUi8QkAyQSBavZhMUR5InA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\07.Polymorphism - Lab\\Animals\\Animals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

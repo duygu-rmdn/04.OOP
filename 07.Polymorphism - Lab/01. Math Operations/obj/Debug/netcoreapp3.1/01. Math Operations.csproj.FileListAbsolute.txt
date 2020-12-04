@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\07.Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.exe
+C:\Users\HP\source\repos\07.Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.deps.json
+C:\Users\HP\source\repos\07.Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.runtimeconfig.json
+C:\Users\HP\source\repos\07.Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.runtimeconfig.dev.json
+C:\Users\HP\source\repos\07.Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.dll
+C:\Users\HP\source\repos\07.Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.pdb
+C:\Users\HP\source\repos\07.Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\07.Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\07.Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.AssemblyInfo.cs
+C:\Users\HP\source\repos\07.Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\07.Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.dll
+C:\Users\HP\source\repos\07.Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.pdb
+C:\Users\HP\source\repos\07.Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.genruntimeconfig.cache
