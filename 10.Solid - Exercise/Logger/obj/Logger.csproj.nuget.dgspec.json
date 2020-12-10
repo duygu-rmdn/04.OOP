@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\10.Solid - Exercise\\Logger\\Logger.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\04.OOP\\10.Solid - Exercise\\Logger\\Logger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\10.Solid - Exercise\\Logger\\Logger.csproj": {
+    "C:\\Users\\HP\\source\\repos\\04.OOP\\10.Solid - Exercise\\Logger\\Logger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\10.Solid - Exercise\\Logger\\Logger.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\04.OOP\\10.Solid - Exercise\\Logger\\Logger.csproj",
         "projectName": "Logger",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\10.Solid - Exercise\\Logger\\Logger.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\10.Solid - Exercise\\Logger\\Logger.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\10.Solid - Exercise\\Logger\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\10.Solid - Exercise\\Logger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
