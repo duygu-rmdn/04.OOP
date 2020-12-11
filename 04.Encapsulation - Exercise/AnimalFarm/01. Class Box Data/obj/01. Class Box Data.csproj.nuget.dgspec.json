@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\OOP\\04.Encapsulation - Exercise\\AnimalFarm\\01. Class Box Data\\01. Class Box Data.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\04.OOP\\04.Encapsulation - Exercise\\AnimalFarm\\01. Class Box Data\\01. Class Box Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\OOP\\04.Encapsulation - Exercise\\AnimalFarm\\01. Class Box Data\\01. Class Box Data.csproj": {
+    "C:\\Users\\HP\\source\\repos\\04.OOP\\04.Encapsulation - Exercise\\AnimalFarm\\01. Class Box Data\\01. Class Box Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\OOP\\04.Encapsulation - Exercise\\AnimalFarm\\01. Class Box Data\\01. Class Box Data.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\04.OOP\\04.Encapsulation - Exercise\\AnimalFarm\\01. Class Box Data\\01. Class Box Data.csproj",
         "projectName": "01. Class Box Data",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\OOP\\04.Encapsulation - Exercise\\AnimalFarm\\01. Class Box Data\\01. Class Box Data.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\04.Encapsulation - Exercise\\AnimalFarm\\01. Class Box Data\\01. Class Box Data.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\OOP\\04.Encapsulation - Exercise\\AnimalFarm\\01. Class Box Data\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\04.Encapsulation - Exercise\\AnimalFarm\\01. Class Box Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

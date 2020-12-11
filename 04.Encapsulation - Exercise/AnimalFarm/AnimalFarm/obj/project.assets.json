@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\OOP\\04.Encapsulation - Exercise\\AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\04.OOP\\04.Encapsulation - Exercise\\AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
       "projectName": "AnimalFarm",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\OOP\\04.Encapsulation - Exercise\\AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\04.Encapsulation - Exercise\\AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\OOP\\04.Encapsulation - Exercise\\AnimalFarm\\AnimalFarm\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\04.Encapsulation - Exercise\\AnimalFarm\\AnimalFarm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

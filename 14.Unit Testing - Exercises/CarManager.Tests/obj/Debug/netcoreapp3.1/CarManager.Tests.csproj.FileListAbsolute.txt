@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\04.OOP\14.Unit Testing - Exercises\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\04.OOP\14.Unit Testing - Exercises\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\04.OOP\14.Unit Testing - Exercises\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.AssemblyInfo.cs
+C:\Users\HP\source\repos\04.OOP\14.Unit Testing - Exercises\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.csproj.CoreCompileInputs.cache

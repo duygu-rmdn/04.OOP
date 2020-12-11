@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iCvOauAvLCpC932qUVtEg2xogXEq63sEA4OewxVJE3BejjeD0cjw0rLaWPvKBlwDi6JuYiH0wiKb6c9UKKUB+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\04.OOP\\14.Unit Testing - Exercises\\DatabaseExtended\\DatabaseExtended.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
