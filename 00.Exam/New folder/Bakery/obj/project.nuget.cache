@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ELN7qizd+ZwRskCEvlPCLUIx1GLkw9/lCkqOHhcp7yIc6XmBatGTIRLWG7hxjY32XQpkLVxeMvYqvbIRJbKew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder\\Bakery\\Bakery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
