@@ -1,113 +1,120 @@
-﻿using Bakery.Models.BakedFoods.Contracts;
+﻿using System;
+using System.Text;
+using System.Linq;
+using System.Collections.Generic;
+
+using Bakery.Models.BakedFoods.Contracts;
 using Bakery.Models.Drinks.Contracts;
 using Bakery.Models.Tables.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Text;
+
+using Bakery.Utilities.Messages;
 
 namespace Bakery.Models.Tables
 {
     public abstract class Table : ITable
     {
-        private int capasity;
-        private int numberOfPeople;
-        private decimal pricePerPerson;
-        private int reserved;
+        private readonly ICollection<IBakedFood> foodOrders;
+        private readonly ICollection<IDrink> drinkOrders;
 
-        protected Table(int tableNumber, int capacity, decimal pricePerPerson)
+        private int capacity;
+        private int numberOfPeople;
+
+        public Table()
         {
-            this.TableNumber = tableNumber;
-            this.Capacity = capacity;
-            this.PricePerPerson = pricePerPerson;
-            FoodOrders = new List<IBakedFood>();
-            DrinkOrders = new List<IDrink>();
+            foodOrders = new List<IBakedFood>();
+            drinkOrders = new List<IDrink>();
         }
 
-        private ICollection<IBakedFood> FoodOrders;
-
-        private ICollection<IDrink> DrinkOrders;
-
+        protected Table(int tableNumber, int capacity, decimal pricePerPerson)
+            : this()
+        {
+            TableNumber = tableNumber;
+            Capacity = capacity;
+            PricePerPerson = pricePerPerson;
+        }
 
         public int TableNumber { get; }
 
         public int Capacity
         {
-            get => this.capasity;
+            get => capacity;
             private set
             {
-                if (value <= 0)
+                if (value < 0)
                 {
-                    throw new ArgumentException("Capacity has to be greater than 0");
+                    throw new ArgumentException(ExceptionMessages.InvalidTableCapacity);
                 }
-                this.capasity = value;
+
+                capacity = value;
             }
         }
 
         public int NumberOfPeople
         {
-            get => this.numberOfPeople;
+            get => numberOfPeople;
             private set
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException("Cannot place zero or less people!");
+                    throw new ArgumentException(ExceptionMessages.InvalidNumberOfPeople);
                 }
-                this.numberOfPeople = value;
-            }
-        }
-        public decimal PricePerPerson
-        {
-            get => this.pricePerPerson;
-            private set
-            {
-                this.pricePerPerson = value;
+
+                numberOfPeople = value;
             }
         }
 
-        public bool IsReserved => reserved == capasity;
+        public decimal PricePerPerson { get; }
+
+        public bool IsReserved { get; private set; }
+
+        public decimal Price => PricePerPerson * NumberOfPeople;
 
 
-
-        decimal ITable.Price => pricePerPerson * numberOfPeople;
-
-        public void Clear()
+        public void Reserve(int numberOfPeople)
         {
-            FoodOrders.Clear();
-            DrinkOrders.Clear();
-            reserved = 0;
-            numberOfPeople = 0;
-        }
-
-        public decimal GetBill()
-        {
-            return (FoodOrders.Count + DrinkOrders.Count) * pricePerPerson * numberOfPeople; 
-        }
-
-        public string GetFreeTableInfo()
-        {
-            
-            StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Table: {this.TableNumber}");
-            sb.AppendLine($"Type: {GetType().Name}");
-            sb.AppendLine($"Capacity: {this.capasity}");
-            sb.AppendLine($"Price per Person: {this.pricePerPerson}");
-
-            return sb.ToString().TrimEnd();
-        }
-
-        public void OrderDrink(IDrink drink)
-        {
-            DrinkOrders.Add(drink);
+            NumberOfPeople = numberOfPeople;
+            IsReserved = true;
         }
 
         public void OrderFood(IBakedFood food)
         {
-            FoodOrders.Add(food);
+            foodOrders.Add(food);
         }
 
-        public void Reserve(int numberOfPeople)
+        public void OrderDrink(IDrink drink)
         {
-            reserved += numberOfPeople;
+            drinkOrders.Add(drink);
         }
+
+        public decimal GetBill()
+        {
+            decimal bill = Price + drinkOrders.Select(x => x.Price).Sum() + foodOrders.Select(x => x.Price).Sum();
+
+            return bill;
+        }
+
+        public void Clear()
+        {
+            drinkOrders.Clear();
+            foodOrders.Clear();
+
+            IsReserved = false;
+            capacity = 0;
+        }
+
+
+        public string GetFreeTableInfo()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb
+                .AppendLine($"Table: {TableNumber}")
+                .AppendLine($"Type: {this.GetType().Name}")
+                .AppendLine($"Capacity: {Capacity}")
+                .AppendLine($"Price per Person: {PricePerPerson}");
+
+            return sb.ToString().TrimEnd();
+        }
+
+
     }
 }

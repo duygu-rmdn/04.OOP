@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder\\Bakery\\Bakery.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\04.OOP\\00.Exam\\New folder\\Bakery\\Bakery.csproj",
       "projectName": "Bakery",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder\\Bakery\\Bakery.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\00.Exam\\New folder\\Bakery\\Bakery.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder\\Bakery\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\00.Exam\\New folder\\Bakery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

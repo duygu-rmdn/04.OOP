@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfKySGALXFe1uSHcFhkF/Fu8Za7zZmFJGRwN7Iu0qdEQfCdpfkicH6HMfkUN4WeIupNI74pkUTHiAI9k8XSi7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\04.OOP\\20.Exam preparition\\02.Exam16August2020\\OnlineShop-Skeleton\\OnlineShop\\OnlineShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

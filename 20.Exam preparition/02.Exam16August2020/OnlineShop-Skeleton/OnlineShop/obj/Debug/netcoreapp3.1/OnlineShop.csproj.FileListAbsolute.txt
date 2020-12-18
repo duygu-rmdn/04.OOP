@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\04.OOP\20.Exam preparition\02.Exam16August2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+C:\Users\HP\source\repos\04.OOP\20.Exam preparition\02.Exam16August2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+C:\Users\HP\source\repos\04.OOP\20.Exam preparition\02.Exam16August2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+C:\Users\HP\source\repos\04.OOP\20.Exam preparition\02.Exam16August2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+C:\Users\HP\source\repos\04.OOP\20.Exam preparition\02.Exam16August2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Users\HP\source\repos\04.OOP\20.Exam preparition\02.Exam16August2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Users\HP\source\repos\04.OOP\20.Exam preparition\02.Exam16August2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\04.OOP\20.Exam preparition\02.Exam16August2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\04.OOP\20.Exam preparition\02.Exam16August2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+C:\Users\HP\source\repos\04.OOP\20.Exam preparition\02.Exam16August2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\04.OOP\20.Exam preparition\02.Exam16August2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Users\HP\source\repos\04.OOP\20.Exam preparition\02.Exam16August2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Users\HP\source\repos\04.OOP\20.Exam preparition\02.Exam16August2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
