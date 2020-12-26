@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder (2)\\BankSafe\\BankSafe.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\04.OOP\\00.Exam\\New folder (2)\\BankSafe\\BankSafe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder (2)\\BankSafe\\BankSafe.csproj": {
+    "C:\\Users\\HP\\source\\repos\\04.OOP\\00.Exam\\New folder (2)\\BankSafe\\BankSafe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder (2)\\BankSafe\\BankSafe.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\04.OOP\\00.Exam\\New folder (2)\\BankSafe\\BankSafe.csproj",
         "projectName": "BankSafe",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder (2)\\BankSafe\\BankSafe.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\00.Exam\\New folder (2)\\BankSafe\\BankSafe.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder (2)\\BankSafe\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\00.Exam\\New folder (2)\\BankSafe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

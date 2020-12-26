@@ -4608,11 +4608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder (2)\\BankSafe.Tests\\BankSafe.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\04.OOP\\00.Exam\\New folder (2)\\BankSafe.Tests\\BankSafe.Tests.csproj",
       "projectName": "BankSafe.Tests",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder (2)\\BankSafe.Tests\\BankSafe.Tests.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\00.Exam\\New folder (2)\\BankSafe.Tests\\BankSafe.Tests.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder (2)\\BankSafe.Tests\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\00.Exam\\New folder (2)\\BankSafe.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4628,8 +4628,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder (2)\\BankSafe\\BankSafe.csproj": {
-              "projectPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\New folder (2)\\BankSafe\\BankSafe.csproj"
+            "C:\\Users\\HP\\source\\repos\\04.OOP\\00.Exam\\New folder (2)\\BankSafe\\BankSafe.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\04.OOP\\00.Exam\\New folder (2)\\BankSafe\\BankSafe.csproj"
             }
           }
         }

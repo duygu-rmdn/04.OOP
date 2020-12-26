@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "laQfKgV5zTBeWYx1oIIgot7wn5YH4ZQTnDytYWHUBBZCQ/p1JrMLaJ+l0OcRoeMGiMUACow8qC1ocnE4Dk465w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\04.OOP\\12.Reflection and Attributes - Exercise\\ReflectionAndAttributes\\ValidationAttributes\\ValidationAttributes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
